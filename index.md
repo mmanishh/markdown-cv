@@ -19,11 +19,11 @@ Working as Software Developer at IMaR
 
 ### Skills
 
-- Languages : Javascript (2 yrs) , Python (2.5 yrs)
-- Storage :  SQL(PostGres (2 yrs)), NoSQL (MongoDB (1 yr)), GraphDB (Neo4j (0.5 yr)) 
-- Tool/Services : Git, Docker, AWS (EC2, S3, Cognito), GCP (Cloud Run)
-- Frameworks & Libraries : Express, VueJS, Django
-- OS : Linux (Ubuntu), MacOS
+- **Languages** : Javascript (2 yrs) , Python (2.5 yrs)
+- **Storage** :  SQL(PostGres (2 yrs)), NoSQL (MongoDB (1 yr)), GraphDB (Neo4j (0.5 yr)) 
+- **Tool/Services** : Git, Docker, AWS (EC2, S3, Cognito), GCP (Cloud Run)
+- **Frameworks & Libraries** : Express, VueJS, Django
+- **OS** : Linux (Ubuntu), MacOS
 
 
 ## Education
