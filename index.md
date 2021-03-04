@@ -5,13 +5,9 @@ title: Manish Maharjan's CV
 # Manish Maharjan
 Software Engineer
 
-<div id="webaddress">
-<a href="mmaharjann@gmail.com">mmaharjann@gmail.com</a>
-</div>
+Tralee, Kerry , Ireland
 
-https://github.com/mmanishh
-
-https://www.linkedin.com/in/manishnp/
+[github](https://github.com/mmanishh) [linkedin](https://www.linkedin.com/in/manishnp) [email](mmaharjann@gmail.com)
 
 ## Currently
 
